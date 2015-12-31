@@ -1,0 +1,46 @@
+[29-Dec-2015 16:07:13 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Dec-2015 16:32:06 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Dec-2015 18:26:33 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Dec-2015 18:50:13 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Dec-2015 19:28:59 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[30-Dec-2015 16:20:27 UTC] PHP Fatal error:  Uncaught exception 'Magento\Framework\Exception\LocalizedException' with message 'Can't create directory /home/magentodemo/public_html/magento2/var/generation/Magento/Framework/App/ResourceConnection/.' in /home/magentodemo/public_html/magento2/lib/internal/Magento/Framework/Code/Generator.php:103
+Stack trace:
+#0 /home/magentodemo/public_html/magento2/lib/internal/Magento/Framework/Code/Generator/Autoloader.php(35): Magento\Framework\Code\Generator->generateClass('Magento\\Framewo...')
+#1 [internal function]: Magento\Framework\Code\Generator\Autoloader->load('Magento\\Framewo...')
+#2 [internal function]: spl_autoload_call('Magento\\Framewo...')
+#3 /home/magentodemo/public_html/magento2/lib/internal/Magento/Framework/Code/Reader/ClassReader.php(19): ReflectionClass->__construct('Magento\\Framewo...')
+#4 /home/magentodemo/public_html/magento2/lib/internal/Magento/Framework/ObjectManager/Definition/Runtime.php(44): Magento\Framework\Code\Reader\ClassReader->getConstructor('Magento\\Framewo...')
+#5 /home/magentod in /home/magentodemo/public_html/magento2/lib/internal/Magento/Framework/Code/Generator.php on line 103
+[30-Dec-2015 16:51:56 UTC] PHP Fatal error:  Uncaught exception 'Magento\Framework\Exception\LocalizedException' with message 'Can't create directory /home/magentodemo/public_html/magento2/var/generation/Magento/Framework/App/ResourceConnection/.' in /home/magentodemo/public_html/magento2/lib/internal/Magento/Framework/Code/Generator.php:103
+Stack trace:
+#0 /home/magentodemo/public_html/magento2/lib/internal/Magento/Framework/Code/Generator/Autoloader.php(35): Magento\Framework\Code\Generator->generateClass('Magento\\Framewo...')
+#1 [internal function]: Magento\Framework\Code\Generator\Autoloader->load('Magento\\Framewo...')
+#2 [internal function]: spl_autoload_call('Magento\\Framewo...')
+#3 /home/magentodemo/public_html/magento2/lib/internal/Magento/Framework/Code/Reader/ClassReader.php(19): ReflectionClass->__construct('Magento\\Framewo...')
+#4 /home/magentodemo/public_html/magento2/lib/internal/Magento/Framework/ObjectManager/Definition/Runtime.php(44): Magento\Framework\Code\Reader\ClassReader->getConstructor('Magento\\Framewo...')
+#5 /home/magentod in /home/magentodemo/public_html/magento2/lib/internal/Magento/Framework/Code/Generator.php on line 103
+[30-Dec-2015 21:13:57 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
