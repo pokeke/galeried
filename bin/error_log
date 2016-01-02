@@ -163,3 +163,115 @@ Module compiled with module API=20090626
 PHP    compiled with module API=20121212
 These options need to match
  in Unknown on line 0
+[31-Dec-2015 04:57:30 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 04:57:48 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 04:59:15 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 16:31:01 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 16:36:59 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 16:42:05 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 17:18:38 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 17:19:54 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 17:22:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 9089 bytes) in /home/magentodemo/public_html/magento2/vendor/magento/data-migration-tool/src/Migration/ResourceModel/Adapter/Mysql.php on line 152
+[31-Dec-2015 19:07:55 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 19:09:32 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 19:24:06 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 19:24:19 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 19:39:13 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 19:39:59 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 19:41:00 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 19:42:34 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 19:59:52 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 20:00:51 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 20:03:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 75076690 bytes) in /home/magentodemo/public_html/magento2/vendor/magento/data-migration-tool/src/Migration/ResourceModel/Adapter/Mysql.php on line 152
+[31-Dec-2015 20:13:35 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[31-Dec-2015 20:19:37 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[02-Jan-2016 02:28:55 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[02-Jan-2016 02:43:43 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0

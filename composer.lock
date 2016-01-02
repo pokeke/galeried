@@ -1,10 +1,11 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a89e22120ba1ef2146473b6e378acaed",
+    "hash": "b668bf02bd7d069eefc2ab195f254fd2",
+    "content-hash": "bea9d0dbecc7f42ff069ed0345058ade",
     "packages": [
         {
             "name": "braintree/braintree_php",
@@ -213,6 +214,34 @@
                 "AFL-3.0"
             ],
             "description": "Magento composer library helps to instantiate Composer application and run composer commands."
+        },
+        {
+            "name": "magento/data-migration-tool",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/magento/data-migration-tool-ce",
+                "reference": "092857123e864951beee3041362920a0b0375c79"
+            },
+            "require": {
+                "magento/framework": "~100.0.0",
+                "monolog/monolog": "~1.16.0",
+                "symfony/console": "~2.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Migration\\": [
+                        "src/Migration",
+                        "tests/unit/testsuite/Migration"
+                    ]
+                },
+                "files": [
+                    "src/Migration/cli_commands.php"
+                ]
+            },
+            "description": "Migration Tool",
+            "time": "2015-11-23 13:03:40"
         },
         {
             "name": "magento/magento-composer-installer",
@@ -3900,6 +3929,7 @@
     "minimum-stability": "alpha",
     "stability-flags": {
         "composer/composer": 15,
+        "magento/data-migration-tool": 20,
         "phpmd/phpmd": 0
     },
     "prefer-stable": true,
