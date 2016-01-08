@@ -23,9 +23,9 @@ atlassian*
 /node_modules
 /.grunt
 
-/pub/media/*.*
+!/pub/media/*.*
 !/pub/media/.htaccess
-/pub/media/catalog/*
+!/pub/media/catalog/*
 !/pub/media/catalog/.htaccess
 /pub/media/customer/*
 !/pub/media/customer/.htaccess
@@ -48,3 +48,5 @@ atlassian*
 !/var/.htaccess
 /vendor
 !/vendor/.htaccess
+error_log
+bin/error_log
